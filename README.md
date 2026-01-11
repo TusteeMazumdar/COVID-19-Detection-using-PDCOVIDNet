@@ -14,7 +14,7 @@ Recent advancements in deep learning, particularly convolutional neural networks
 
 ## Dataset
 
-- **Source:** Kaggle Dataset – *Chest X-ray Images*
+- **Source:** Kaggle Dataset – *[Chest X-ray Images](https://www.kaggle.com/datasets/alsaniipe/chest-x-ray-image)*
 - **Classes:** COVID-19, Pneumonia, Normal
 - **Image Preprocessing:**
   - Images are resized to **224 × 224**
